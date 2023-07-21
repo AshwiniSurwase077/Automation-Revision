@@ -21,5 +21,6 @@ public static void main(String[] args)
   case 7: System.out.println("today is sunday");
   break;
   }
+  
 }
 }
