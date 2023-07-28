@@ -1,6 +1,6 @@
 package Arrays;
 
-public class Sample2 
+public class Sample2_single_dimentional
 {
 public static void main(String[] args) 
 {
