@@ -4,7 +4,7 @@ public class Sample5_declaration_initializationinsingle_step
 {
 public static void main(String[] args) 
 {
-int []ar= {10,20,30,40};  //declaratin and initialization in single stepsyso
+int []ar= {10,20,30,40};  //declaratin and initialization in single step
 
 System.out.println(ar.length);
 System.out.println(ar[2]);

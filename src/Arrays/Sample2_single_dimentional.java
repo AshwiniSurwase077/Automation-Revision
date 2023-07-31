@@ -5,9 +5,11 @@ public class Sample2_single_dimentional
 public static void main(String[] args) 
 {
 int [] ar=new int[3];
+
 ar[0]=1;
 ar[1]=2;
 ar[2]=3;
+
 
 
 System.out.println(ar[2]);

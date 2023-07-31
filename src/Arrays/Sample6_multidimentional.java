@@ -23,11 +23,11 @@ int [] [] ar={{10,20,30} ,{40,50,60}};   ///declaration AND INItialization in si
 System.out.println(ar.length);
 System.out.println(ar[1][2]);
 
-for(int i=0; i<=1; i++)
+for(int i=0; i<=1; i++)  //this is for 1st array
 {
-	for(int j=0; j<=2; j++)
+	for(int j=0; j<=2; j++)   //thids for 2nd array
 	{
-		System.out.println(ar[i][j]+"");
+		System.out.println(ar[i][j]+"");  //" " this is for making space between 2 array
 	}
 	System.out.println();
 }
